@@ -31,7 +31,7 @@ export default function Home() {
       {/* Services */}
       <section className="py-16">
         <div className="max-w-7xl mx-auto px-4">
-          <h3 className="text-2xl font-bold mb-8 text-center">
+          <h3 className="text-2xl color-red-500 font-bold mb-8 text-center">
             Our Services
           </h3>
 
